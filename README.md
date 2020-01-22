@@ -1,7 +1,7 @@
 This container contains:
-- Hawkbit update server, https://github.com/eclipse/hawkbit Tag: 0.3.0M5
+- Hawkbit update server, https://github.com/eclipse/hawkbit Tag: 0.3.0M6
 
-- Hawkbit S3 extension, https://github.com/eclipse/hawkbit-extensions SHA1: 63a1d2b6080eabfe90cb892db9c406390a58f34f
+- Hawkbit S3 extension, https://github.com/eclipse/hawkbit-extensions SHA1: 51f880d77ccc32baac0233751a56107c11523a6b
 
 - MariaDB Connector, https://downloads.mariadb.com/Connectors/java/connector-java-2.4.1/mariadb-java-client-2.4.1.jar Version: 2.4.1
 
