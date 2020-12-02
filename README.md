@@ -1,3 +1,5 @@
+# This repository is no longer maintained
+
 This container contains:
 - Hawkbit update server, https://github.com/eclipse/hawkbit Tag: 0.3.0M6
 
